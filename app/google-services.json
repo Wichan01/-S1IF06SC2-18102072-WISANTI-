@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392919708740",
+    "project_id": "fir-ppb2021-21a51",
+    "storage_bucket": "fir-ppb2021-21a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392919708740:android:a5f2c4366b8514e3977811",
+        "android_client_info": {
+          "package_name": "com.wisanti_18102072.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392919708740-mo9taj4scjclee7uacr6pir19cqpq4fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0KI7NM6FiIa5cLI3BUNP3gd75c4gwlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392919708740-mo9taj4scjclee7uacr6pir19cqpq4fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
