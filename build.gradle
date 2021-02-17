@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.fadhilahgustis_18102084.praktikum10"
+        applicationId "com.wisanti_18102072.praktikum10"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
