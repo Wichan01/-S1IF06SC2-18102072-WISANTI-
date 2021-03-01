@@ -1,3 +1,4 @@
+include ':praktikum6'
 include ':praktikum5'
 include ':lifecycleapp2'
 include ':lifecycleapp'
