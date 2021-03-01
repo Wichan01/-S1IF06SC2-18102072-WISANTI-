@@ -1,5 +1,13 @@
 include ':praktikum6'
+
 //include ':praktikum5'
 //include ':lifecycleapp2'
 //include ':app'
+
+include ':praktikum5'
+include ':lifecycleapp2'
+include ':lifecycleapp'
+include ':lifecyleapp'
+include ':app'
+
 rootProject.name = "Hello IT Telkom Purwokerto"

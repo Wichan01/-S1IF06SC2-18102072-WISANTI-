@@ -1,15 +1,23 @@
 package com.wisanti_18102072.praktikum6.adapter
 
+
 import android.content.Intent
+
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
+
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.wisanti_18102072.praktikum6.DetailActivity
+
+import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
+
 import com.wisanti_18102072.praktikum6.MyData
 import com.wisanti_18102072.praktikum6.R
 
@@ -32,4 +40,8 @@ class GridMyDataAdapter(val listMyDatas: ArrayList<MyData>) :
         var imgPhoto: ImageView = itemView.findViewById(R.id.img_item_photo)
     }
 
+
     }
+
+}
+

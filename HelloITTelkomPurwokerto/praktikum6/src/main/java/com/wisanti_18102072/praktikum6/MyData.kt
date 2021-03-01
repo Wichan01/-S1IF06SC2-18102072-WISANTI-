@@ -10,4 +10,5 @@ data class MyData(
     var photo: String,
     val lat: Double,
     val lang: Double
+    var photo: String
 ) : Parcelable
