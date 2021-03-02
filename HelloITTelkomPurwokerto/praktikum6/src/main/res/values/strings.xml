@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">Praktikum6</string>
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+        <item>Telaga Sunyi</item>
+        <item>Limpakuwus</item>
+        <item>Curug Jenggala</item>
+        <item>Small World</item>
+        <item>Balai Kemambang</item>
+        <item>Kebun Raya Baturraden</item>
+        <item>Caub</item>
+        <item>Gudel Warkop</item>
+        <item>Warung Tenda</item>
+        <item>Bukit Tranggulasih</item>
+        <item>Bukit Watu Meja</item>
+        <item>Caping Park</item>
+        <item>Curug Gomblang</item>
+    </string-array>
+    <string-array name="data_description">
+ <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa
+tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada
+di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek
+jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga
+Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho!
+Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
+si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan
+yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
+khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung
+mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
+sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang
+(burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak. </item>
+        <item>destinasi yang berlokasi sekitar 2,8 Km dari lokasi wisata Baturaden ini memang menawarkan keindahan di kesunyian.
+    Cocok untuk Teman Traveler yang ingin menghilangkan penat. Apalagi mengingat tiket masuknya yang terjangkau, yaitu Rp13.000/orang.
+    Sementara parkirnya Rp3.000/motor dan Rp5.000/mobil. Telaga Sunyi Baturaden dikelilingi bebatuan di sekitarnya. Ada pula tebing yang di tengahnya mengalir air jernih. Aliran air ini ternyata berasal dari sumber mata air di Gunung Slamet. Di sekitar telaga,
+    terdapat pepohonan hijau yang terdiri dari pohon damar dan pinus. Sementara air di dalam kolamnya bening dan menyegarkan.</item>
+        <item>Wisata di alam memang tidak pernah membosankan. Alam dengan segala kealamiannya begitu menawan, melelapkan diri yang penat dengan keramaian.
+    Bersyukur Indonesia memiliki alam yang begitu menawan. Salah satunya berada di Banyumas, tepatnya di Hutan Pinus Limpakuwus.
+    Objek wisata yang satu ini meskipun bernama hutan, namun tidak terkesan seram. Justru keindahan alam berupa banyaknya pohon pinus begitu menenteramkan.
+    Pohon pinus berjajar dengan rapi dan tinggi menjulang. Semakin asyik ditambah dengan berbagai wahana permainan.</item>
+        <item>ernyata Banyumas memiliki destinasi wisata yang hits dan instagrammable sejak tahun 2016. Tempat tersebut adalah Curug Jenggala,
+    air terjun memukau hasil pertemuan dua aliran sungai. Objek wisata ini dapat dikenali dengan jajaran tiga air terjun yang deras dan dek swafoto berbentuk hati.
+    Air terjun ini bisa ditemukan jika berkunjung ke Dusun Kalipagu, Kabupaten Banyumas.</item>
+        <item>Tak perlu jauh – jauh untuk melihat berbagai bangunan yang masuk keajaiban dunia, di Purwokerto juga ada Taman Miniatur Dunia atau Small World Purwokerto.
+    Sebuah tempat rekreasi sekaligus wahana edukasi yang berisi berbagai miniatur mahakarya luar biasa yang tersebar diberbagai belahan dunia.
+    Sebagai wahana rekreasi sekaligus edukasi, rencananya Small World ini akan memiliki banyak sekali miniatur bangunan terkenal dari seluruh dunia,
+    seperti (yang sudah ada) Kincir Angin khas Belanda dengan bunga tulip yang khas, Patung Merlion, Twin Tower, Big Ben, Colosseum, Angkorwatt, Menara Eiffel, Kinkakuji, Taman Bunga Sakura, Opera House Sidney dan banyak lainnya. </item>
+        <item>Anda warga Banyumas? Atau warga luar Banyumas yang sering ke Kota Purwokerto? Sudahkah anda mengetahui disalah satu sudut Kota Purwokerto terdapat taman yang cukup menarik yang bernama Taman Balai Kemambang.
+    Taman ini terletak di Jalan Karangkobar di sebelah barat perumahan elite Permata Hijau masuk wilayah Keluharan Purwanegara Kecamatan Purwokerto Utara, merupakan salah satu taman yang layak anda kunjungi bersama keluarga.</item>
+        <item>Kebun Raya Baturraden berada di Desa Kemutug Lor, Kecamatan Baturraden, Kabupaten Banyumas, berbatasan dengan Lokawisata Baturraden dan Bumi Perkemahan Baturraden. Pembangunannya dirintis sejak tahun 2001.
+    Kebun Raya ini merupakan wujud buah inspirasi Ibu Megawati Soekarnoputri (Wakil Presiden Republik Indonesia) yang dicetuskan pada penutupan Jambore Nasional tahun 2000 di Baturraden, Jawa Tengah.
+    Hal ini disampaikan langsung oleh Ibu  Mega kepada Gubernur Jawa Tengah, H. Mardiyanto, mengingat pada saat itu Provinsi Jawa Tengah merupakan satu-satunya provinsi di Pulau Jawa yang belum memiliki kebun raya.
+    Luas keseluruhan Kebun Raya Baturraden mencapai 143,5 ha dan terletak di kawasan Wana Wisata Perum Perhutani yang merupakan perkebunan pinus (Pinus merkusii), damar (Agathis borneensis), dan rasamala (Altingia excelsa), serta beberapa jenis rotan sebagai sisipan.
+    Kebun Raya Baturraden telah ditetapkan sebagai kawasan konservasi ex situuntuk flora pegunungan Jawa.</item>
+        <item>Bagi keluarga muda yang ingin bermalam di alam terbuka yang sejuk, namun ingin tetap bisa mengakses berbagai fasilitas seperti di rumah, bumi perkemahan adalah jawabannya.
+    Salah satunya adalah di Cap Area Umbul Bengkok Baturaden, atau lebih dikenal sebagai CAUB Baturaden. Sebelumnya tempat ini merupakan sebuah perkebunan/ sawah yang kemudian disulap menjadi bumi perkemahan yang ramah lingkungan.
+    CAUB Baturaden berada di Dusun II, Desa Karangsalam, Kecamatan Baturraden, Kabupaten Banyumas, Jawa Tengah. Bumi perkemahan CAUB ini cukup luas, bisa menampung sekitar 100 tenda dengan kapasitas 5 orang per tenda.
+    Lokasinya sangat strategis karena dekat dengan area Wisata Baturraden dan Kebun Raya Baturraden, Telaga Sunyi, dan sebagainya. Jadi, jika belum puas dengan bersantai di kemah saja, kita bisa jalan-jalan sebentar ke area wisata lain.</item>
+        <item>buat kalian yang suka nongkrong dialam lepas dengan menikmati indahnya gemerlap bintang dan kerlap-kerlip lampu purwokerto,
+    ada tempat wisata bernama gudel, cocok banget deh pokoknya buat kalian nongki sambil ngopi dengan teman-teman, gak ada tiket masuk cuma bayar parkir doang 2 rebu, makanannya pun pas dikantong mendoan 10 rebu
+    bikin kenyang, pokoknya rekomended buat anak kuliah yang stress karena tugas, butuh refreshing tanpa nguras dompet. tempatnya diDusun II, Karangsalam, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151.
+    dari caub sedikit naik ke atas, sebelahan sama warung tenda</item>
+        <item>Purwokerto sepertinya sudah terlalu banyak café di pusat perkotaan, mungkin kalian ingin suasana nongkrong asyik yang berbeda dengan yang lain.
+    Eits! Bukan berarti menjatuhkan café di Purwokerto loh ya, setiap individu itu unik dan tentunya memiliki selera masing-masing.
+    Kalau bajet emang lagi high ya sesekali nongski di café or resto, bajet pas pasan pengin ngopi ya bisa di café or coffee shop, atau bener-bener minimalist ya bisa deh di angkringan.
+    Kali ini Purwokerto sedang ada yang berbeda dari biasanya. Tempat nongkrong buat kalian para perindu ketinggian, perindu menggigil di gunung, perindu alam tak perlu jauh-jauh harus naik gunung.
+    Ada warung dengan konsep alam. Warung Tenda Bintang namanya, berlokasi di Desa KarangSalam Baturraden ini menjadikan sebagai tempat nongkrong berkonsep alam dengan disekelilingi oleh tenda-tenda yang berada di lereng Gunung Slamet.</item>
+        <item>Wisata Bukit Tranggulasih sedang menjadi primadona pembicaraan dikalangan masyarakat Kota Purwokerto dan sekitarnya terutama di pertengahan 2015 lalu.
+    Bukit yang berada di komplek lereng Gunung Slamet, tepatnya berada di Desa Windujaya Kecamatan Kedung Banteng, Kabupaten Banyumas.
+    Jika anda menggunjungi tempat ini, sungguh mata ini serasa tersihir dengan keindahan alam yang terhampar dari atas Bukit Tranggulasih.
+    Disisi Timur Anda akan melihat pemandangan Objek Wisata Baturraden dari arah inilah keistimewaan sang Bukit, Terbitnya sang fajar dapat dilihat dengan keleluasaan pandang yang luar biasa luas.
+    Disisi Timur laut berdiri dengan indahnya sang Bukit Cendana, letak dimana lokasi Perkemahan terkenal berada, lalu disisi utara jelas ada deretan pegunungan lereng Slamet,
+    disisi barat terhampar pandangan luas yang siap menyongson Sunset, Diselatan bagaikan menyaksikan bentangan horison samudra laut, Kota Purwokerto dan sekitarnya.</item>
+        <item>Watu Meja ini berada di atas perbukitan di sepanjang jalan pintas Patikraja – Sampang melalui jembatan lama. Akses masuk dari jalan besar hanya bisa untuk sepeda motor sampai sebelum jalan setapak yang hanya bisa dilalui pejalan kaki.
+    Dari jalan besar ada beberapa akses yang sudah ada tanda spanduk dan beberapa penjaga sekaligus tukang parkir. Untuk masuk ke lokasi Watu Meja saat ini masih seikhlas pengunjung dan tidak tidak dipatok besaran minimalnya. Kami masuk melalui gerbang paling utara (Tumiyang).
+    Dan untuk ke lokasi ada 2 opsi, akses jalan ekstrim atau jalur biasa yang sedikit memutar lebih jauh. Jalur extreem memang jaraknya lebih dekat namun kondisi jalannya cukup terjal dan tidak ada pagar pengaman / pegangan samasekali. Lihat saja foto atau video youtubenya dibawah.</item>
+        <item>Ada yang baru di obyek wisata Purwokerto, Jawa Tengah. Namanya, Caping Park Purwokerto. Populer dengan jembatan kacanya, Caping Park Purwokerto ini bisa jadi destinasi seru dan spot foto menarik buat Anda.
+    Obyek wisata Purwokerto, Caping Park dengan pemandangan alam nan hijau yang indah. Terletak di Jalan Raya Baturraden Barat, Desa Kebumen, Baturraden, Banyumas, Jawa Tengah, jembatan kaca berukuran 2,5 x 17 meter ini baru saja diresmikan di Caping Park pada awal Juni silam.</item>
+        <item>Air terjun yang memiliki panorama indah ini memiliki ketinggian sekitar 30 meter yang dihiasi oleh tebing bebatuan andesit. Kemudian daya tarik lainnya dari curug ini yang akan membuat para pengunjung betah adalah kondisi hutan hujan tropis yang masih sangat asri dengan udaranya yang sejuk.
+    Air terjunnya terdiri dari satu arus, tapi kemudian terpisah menjadi dua. Kedua air terjun tersebut berdampingan dan airnya jernih sekali. Latar di sekitar air terjun berupa semak, pohon perdu. Pengunjung juga akan menemukan rotan dan pastinya lumut.</item>
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+        <item>https://destinasiku.com/wp-content/uploads/2018/08/The-Village-Purwokerto.jpg</item>
+        <item>https://www.jejakpiknik.com/wp-content/uploads/2018/05/Screenshot_97-1-630x380.jpg</item>
+        <item>https://1.bp.blogspot.com/-ZYt3qLLyV-w/WithmAPnV9I/AAAAAAAAAD8/LantxNnLYOk6lax0sfVVtZj4dZfURr9_wCLcBGAs/s1600/Baturaden-2-1024x683.jpg</item>
+        <item>https://travelspromo.com/wp-content/uploads/2019/11/12-Love-Deck-Ilham-Wahyu-Alfian-e1573786242992.jpg</item>
+        <item>https://www.purwokertoguidance.com/wp-content/uploads/2016/08/Small-World-Purwokerto.jpg</item>
+        <item>https://www.mgriyahotel.com/wp-content/uploads/2017/08/BALAI-KEMAMBANG-1.jpg</item>
+        <item>https://jadwaltravel.com/wp-content/uploads/2019/07/Tiket-Masuk-Kebun-Raya-Baturaden.jpg</item>
+        <item>https://exovillage.com/uploads/0000/142/2020/08/07/caub-baturaden.png</item>
+        <item>data:image/jpeg;base64,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</item>
+        <item>https://diahayumaharani.files.wordpress.com/2018/01/screenshot_2018-01-14-21-40-06-706_com-miui-videoplayer.png?crop</item>
+        <item>https://pariwisataindonesia.id/wp-content/uploads/2020/03/BukitTranggulasih.piknikyok.com_-650x488.jpg</item>
+        <item>https://www.purwokertoguidance.com/wp-content/uploads/2015/09/Watu-Meja-Bukit-Badar-Tumiyang-Kebasen.jpg</item>
+        <item>https://phinemo.com/wp-content/uploads/2018/06/caping-park-4.jpg</item>
+        <item>https://backpackerjakarta.com/wp-content/uploads/2016/07/Curug-Gomblang-Purwokerto.jpg</item>
+    </string-array>
+
+    <string-array name="data_lat">
+        <item>-7.333797</item>
+        <item>-7.374473</item>
+        <item>-7.3060328</item>
+        <item>-7.2876667</item>
+        <item>-7.309026</item>
+        <item>-7.3312934</item>
+        <item>-7.4120017</item>
+        <item>-7.3063544</item>
+        <item>-7.316283</item>
+        <item>-7.3144566</item>
+        <item>-7.3141656</item>
+        <item>-7.335357</item>
+        <item>-7.5190126</item>
+        <item>-7.3555203</item>
+        <item>-7.3237089</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>109.206959</item>
+        <item>109.240532</item>
+        <item>109.2401843</item>
+        <item>109.2032701</item>
+        <item>109.206589</item>
+        <item>109.222984</item>
+        <item>109.2357489</item>
+        <item>109.2302398</item>
+        <item>109.2395033</item>
+        <item>109.2395845</item>
+        <item>109.2398316</item>
+        <item>109.1983539</item>
+        <item>109.2123145</item>
+        <item>109.2247193</item>
+        <item>109.1791999</item>
+    </string-array>
+    <string name="title_activity_detail">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
