@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firebase Quote</string>
+    <string name="title">title</string>
+    <string name="category">category</string>
+    <string name="description">description</string>
+    <string name="date">date</string>
+    <string name="submit">submit</string>
+    <string name="delete">delete</string>
+</resources>
